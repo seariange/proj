@@ -8,6 +8,8 @@ public class MainApplication {
 
     public static void doSemething (){
         System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
     }
 
 }
