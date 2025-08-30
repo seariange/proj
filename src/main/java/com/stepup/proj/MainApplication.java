@@ -5,13 +5,13 @@ public class MainApplication {
         System.out.println("---");
         System.out.println("HelloWorld!");
         System.out.println("1000");
+        doSomething();
         System.out.println("---");
+
     }
 
     public static void doSomething (){
-        System.out.println(0);
-        System.out.println(1);
-        System.out.println(1);
+        System.out.println("Hello");
     }
 
 }
